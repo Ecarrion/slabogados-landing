@@ -8,6 +8,12 @@ body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
 
+#contact {
+  font-size: 18pt;
+  /*color: rgba(86,170,173,1);*/
+  color: rgba(1,93,116,1);
+}
+
 .navbar-fixed-top .nav {
     padding: 15px 0;
 }
@@ -17,12 +23,12 @@ body {
 }
 
 footer {
-    padding: 30px 0;
+    padding: 100px 0;
 }
 
 @media(min-width:768px) {
     body {
-        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+        padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
     }
 
     .navbar-fixed-top .navbar-brand {
