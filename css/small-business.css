@@ -10,8 +10,11 @@ body {
 
 #contact {
   font-size: 18pt;
-  /*color: rgba(86,170,173,1);*/
   color: rgba(1,93,116,1);
+}
+
+.col-md-4 ul {
+  font-size: 12pt;
 }
 
 .navbar-fixed-top .nav {
